@@ -1,5 +1,5 @@
 - I looked at Monsieur Fogg 
-*   ... and I could contain myself no longer.
+*   ... and I could not keep quiet anymore.
     'What is the purpose of our journey, Monsieur?'
     'A wager,' he replied.
     * *     'A wager!'[] I returned.
